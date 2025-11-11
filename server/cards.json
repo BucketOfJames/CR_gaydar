@@ -1,0 +1,21 @@
+{
+  "Mega Knight": {
+    "value": 8,
+    "true": true,
+    "evo_name": "EVO Mega Knight"
+  },
+  "EVO Mega Knight": {
+    "value": 18,
+    "true": true,
+    "evo": true
+  },
+
+  "Knight": { "value": 0, "true": false },
+  "Mega Minion": { "value": 1, "true": false },
+  "Skeletons": { "value": -1, "true": false }
+  /* Add a record for every card and its EVO variant (if present).
+     Keys are card display names used by the API or by your deck input.
+     Example structure:
+     "Card Name": { "value": <int>, "true": <bool>, "evo_name": "<EVO Card Name>" }
+  */
+}
